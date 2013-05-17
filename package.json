@@ -1,0 +1,38 @@
+{
+  "name": "generator-yui",
+  "version": "0.0.1",
+  "description": "A generator for Yeoman",
+  "keywords": [
+    "yeoman-generator",
+    "yui3"
+  ],
+  "homepage": "https://github.com/tomlane/generator-yui",
+  "bugs": "https://github.com/tomlane/generator-yui/issues",
+  "author": {
+    "name": "Tom Lane",
+    "email": "tom@tomlane.me",
+    "url": "https://github.com/tomlane"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomlane/generator-yui.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.10.2"
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}

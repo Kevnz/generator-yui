@@ -9,8 +9,8 @@ Do feel free to help out though, help and guidance will be much appreciated. :D 
 
 # (Lots) TODO
 
-- Get it working
-- Write some more tests
+- ~~Get it working~~
+- Add prompts for dynamic CSS includes
 - Implement easy version control (for version bumping)
 - Allow use of local builds/copies of YUI
 - Write some demo YUI code
